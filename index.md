@@ -19,7 +19,6 @@ Supported arguments:
     - email
 -->
 
-{% include cv-contact.html %}
 
 ## Education
 
@@ -146,7 +145,7 @@ Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
 Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
 John Montgomery Scholarship `Dickinson, 2013` <br>
 
-## Teach
+## Teaching
 
 Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
 Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
