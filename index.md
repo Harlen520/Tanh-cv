@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Ta
+title: Tan Hua
 email:
   url: tanhua.wink@foxmail.com
   text: tanhua.wink@foxmail.com
@@ -10,7 +10,7 @@ homepage:
 ---
 
 # Tan **Hua**
-
+tanhua.wink@foxmail.com
 <!--
 include contact information from the front matter
 Supported arguments:
