@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Tan Hua
+title: Ta
 email:
   url: tanhua.wink@foxmail.com
   text: tanhua.wink@foxmail.com
