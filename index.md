@@ -9,7 +9,7 @@ homepage:
   text: cs.cmu.edu/~woden
 ---
 
-# Wode **Ni**
+# Hua **Tan**
 
 <!--
 include contact information from the front matter
@@ -23,7 +23,7 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Guangdong University of Technology** `2019.9 - 2022.6`
 
 ```
 Pittsburgh, PA
@@ -32,7 +32,7 @@ Pittsburgh, PA
 - Ph.D. in Software Engineering
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
-### **Columbia University** `2016.9 - 2018.5`
+### **Guangdong University of Technology** `2015.9 - 2019.6`
 
 ```
 New York, NY
