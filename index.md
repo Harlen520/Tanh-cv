@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Tan 
+title: Tan Hua
 email:
   url: tanhua.wink@foxmail.com
-  text: woden@cs.cmu.edu
+  text: tanhua.wink@foxmail.com
 homepage:
   url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  text: tanhua.wink@foxmail.com
 ---
 
-# Tan ****
+# Tan **Hua**
 
 <!--
 include contact information from the front matter
