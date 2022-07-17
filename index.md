@@ -10,13 +10,13 @@ homepage:
 ---
 
 # Tan **Hua**
-- email:tanhua.wink@foxmail.com
+
 <!--
 include contact information from the front matter
 Supported arguments:
     - homepage: url, text
     - phone
-    - email
+    - email tanhua.wink@foxmail.com
 -->
 
 
