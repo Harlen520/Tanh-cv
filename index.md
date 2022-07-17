@@ -10,7 +10,7 @@ homepage:
 ---
 
 # Tan **Hua**
-tanhua.wink@foxmail.com
+- email:tanhua.wink@foxmail.com
 <!--
 include contact information from the front matter
 Supported arguments:
