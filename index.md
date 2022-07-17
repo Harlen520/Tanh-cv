@@ -1,28 +1,29 @@
 ---
 layout: cv
-title: Tan Hua
+title: Wode "Nimo" Ni
 email:
-  url: tanhua.wink@foxmail.com
-  text: tanhua.wink@foxmail.com
+  url: mailto:woden@cs.cmu.edu
+  text: woden@cs.cmu.edu
 homepage:
   url: http://cs.cmu.edu/~woden
-  text: tanhua.wink@foxmail.com
+  text: cs.cmu.edu/~woden
 ---
 
-# Tan **Hua**
+# Wode **Ni**
 
 <!--
 include contact information from the front matter
 Supported arguments:
     - homepage: url, text
     - phone
-    - email tanhua.wink@foxmail.com
+    - email
 -->
 
+{% include cv-contact.html %}
 
 ## Education
 
-### **Guangdong University of Technology** `2019.9 - 2022.6`
+### **Carnegie Mellon University** `2018.9 -`
 
 ```
 Pittsburgh, PA
@@ -31,7 +32,7 @@ Pittsburgh, PA
 - Ph.D. in Software Engineering
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
-### **Guangdong University of Technology** `2015.9 - 2019.6`
+### **Columbia University** `2016.9 - 2018.5`
 
 ```
 New York, NY
