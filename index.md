@@ -2,7 +2,7 @@
 layout: cv
 title: Wode "Nimo" Ni
 email:
-  url: mailto:woden@cs.cmu.edu
+  url: tanhua.wink@foxmail.com
   text: tanhua.wink@foxmail.com
 homepage:
   url: http://cs.cmu.edu/~woden
